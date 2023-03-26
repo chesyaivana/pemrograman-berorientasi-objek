@@ -1,0 +1,1 @@
+kami mencoba menyelesaikan permasalahan menggunakan custom exception serta mengimplementasikan colection, queque, dan list
